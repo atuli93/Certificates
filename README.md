@@ -6,7 +6,7 @@ This repository contains my professional certifications in **Cybersecurity, Ethi
 
 ## 📜 Certifications  
 
-- - [Cisco Introduction to Cybersecurity Certificate](./Introduction_to_Cybersecurity_certificate.pdf)  
+- [Cisco Introduction to Cybersecurity Certificate](./Introduction_to_Cybersecurity_certificate.pdf)  
 - [Ethical Hacking Certificate](./Ethical_Hacker_certificate.pdf)  
 
 *(More certificates coming soon!)*  
