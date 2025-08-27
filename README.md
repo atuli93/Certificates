@@ -6,7 +6,7 @@ This repository contains my professional certifications in **Cybersecurity, Ethi
 
 ## 📜 Certifications  
 
-- [Cisco Introduction to Cybersecurity Certificate](./Introduction_to_Cybersecurity_certificate_atul-chieff60-gmail-com_d7e31d7c-5052-40f5-b478-aac43499875b%20(1).pdf)  
+- - [Cisco Introduction to Cybersecurity Certificate](./Introduction_to_Cybersecurity_certificate.pdf)  
 - [Ethical Hacking Certificate](./Ethical_Hacker_certificate.pdf)  
 
 *(More certificates coming soon!)*  
